@@ -2,4 +2,5 @@ pandas
 numpy  
 notebook 
 matplotlib
+scikit-learn
 #tensorflow
