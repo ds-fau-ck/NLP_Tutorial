@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+env/
+research_env/milion-headlines.csv
