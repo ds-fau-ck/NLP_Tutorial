@@ -3,4 +3,5 @@ numpy
 notebook 
 matplotlib
 scikit-learn
+nltk
 #tensorflow
