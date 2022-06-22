@@ -4,4 +4,5 @@ notebook
 matplotlib
 scikit-learn
 nltk
+gensim
 #tensorflow
